@@ -8,4 +8,5 @@ go mod init dispatch
 go get
 go build
 
+func_systemd
 
