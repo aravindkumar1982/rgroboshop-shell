@@ -9,4 +9,3 @@ go get
 go build
 
 func_systemd
-
